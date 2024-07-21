@@ -1,12 +1,12 @@
 ## Hey 😁, I'm Marcella S. Y. Wijaya  
   
-<a href="https://github.com/Marcellasyw" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+
 <a href="https://instagram.com/achel49" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
+<a href="https://github.com/Marcellasyw" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
   
 
 
@@ -20,6 +20,7 @@ As Data Analyst I tend to use Jupyter Notebook, SQL, and Google Colab, as my mai
 <br/>  
 
 
+## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - I graduated from Podomoro University as a Hospitality in 2021  
@@ -29,6 +30,10 @@ As Data Analyst I tend to use Jupyter Notebook, SQL, and Google Colab, as my mai
 
 
 </td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 

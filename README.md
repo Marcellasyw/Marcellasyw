@@ -15,25 +15,14 @@
 I'm a data analyst with formal background in Hospitality and an additional Data Analyst background, paired with my skill as accounting member, I am looking to transition into Data Analyst.
 
 As Data Analyst I tend to use Jupyter Notebook, SQL, and Google Colab, as my main set up, I am willing to learn about others language or innovation in technology especially coding.  
-  
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - I graduated from Podomoro University as a Hospitality in 2021  
   
 
 - I graduated from TripleTen as Data Analyst in 2024  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 

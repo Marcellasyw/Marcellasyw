@@ -20,7 +20,6 @@ As Data Analyst I tend to use Jupyter Notebook, SQL, and Google Colab, as my mai
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - I graduated from Podomoro University as a Hospitality in 2021  
@@ -30,10 +29,6 @@ As Data Analyst I tend to use Jupyter Notebook, SQL, and Google Colab, as my mai
 
 
 </td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
